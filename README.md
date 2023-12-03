@@ -4,16 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .separator {
-      border-bottom: 2px solid #333;
-      margin-bottom: 15px;
-    }
-
-    
-  </style>
-</head>
-<body>
+  
 
 <div class="separator"></div>
 Embedded Systems & Telecoms Engineer| Software Maestro
