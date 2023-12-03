@@ -1,3 +1,4 @@
+
 <h2>🚀 Hey, I'm Mustapha Boubkraoui 👋</strong></h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Embedded+Systems+%26+Telecoms+Engineer;software+developer" alt="Typing SVG" /></a>
@@ -42,6 +43,13 @@
 
 <br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Djoko85&theme=dark)](https://git.io/streak-stats)
+
+<br><br>
+
+
 
 ## <b> Connect with me:
 </b>
@@ -79,4 +87,3 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Djoko85&theme=dark)](https://git.io/streak-stats)
