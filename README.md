@@ -10,15 +10,7 @@
       margin-bottom: 15px;
     }
 
-    h2 {
-      font-size: 1.5em;
-      margin-bottom: 10px;
-    }
-
-    p {
-      font-size: 1.2em;
-      line-height: 1.5;
-    }
+    
   </style>
 </head>
 <body>
