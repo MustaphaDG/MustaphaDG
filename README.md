@@ -10,7 +10,7 @@
 
 
 
-- Passionate Developer and DevOps Enthusiast
+- Passionate Developer, AI Enthusiast
 - Dedicated to Development Excellence
 
 
