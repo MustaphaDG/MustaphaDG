@@ -45,8 +45,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Djoko85&theme=dark)](https://git.io/streak-stats)
-
+[[![GitHub Streak](https://streak-stats.demolab.com?user=Djoko85&theme=dark)](https://git.io/streak-stats)
+](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude})
 <br>
 
 
