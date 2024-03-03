@@ -8,8 +8,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<li> Cloud/DevOps engineer passionate about building cloud based high available, cost effective, secure and automated infrastructures <li>
-<li> Passionate Developer | AI Enthusiast <li>
+Cloud/DevOps engineer passionate about building cloud based high available, cost effective, secure and automated infrastructures 
+Passionate Developer | AI Enthusiast 
   
 
 
